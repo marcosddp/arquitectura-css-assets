@@ -1,0 +1,14 @@
+.banner__titulo{
+
+   color:#fdfdfd;
+   font-family: Pacifico, cursive;
+   font-size: 5.0625rem;
+   position: absolute;
+   top:50%;
+   left:50%;
+   text-align: center;
+   width: 100%;
+    text-shadow: 0 4px rgba(0, 0 ,0 , 0.25);
+    transform: translate(-50%,-50%);
+
+}
